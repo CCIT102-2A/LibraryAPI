@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMu5xQhRS/4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\John Eubert Manalo\\Documents\\FAITH\\CCIT102\\ACTIVITY 3 API-FRONT END\\LibraryAPI\\StudntApi\\StudntApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John Eubert Manalo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.19\\microsoft.aspnetcore.openapi.9.0.19.nupkg.sha512",
+    "C:\\Users\\John Eubert Manalo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
